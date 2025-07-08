@@ -7,4 +7,4 @@ This repository contains my solutions to John Crickett's Coding Challenges. The 
 
 ## Challenges
 
-1. [Building Your Own Which](./Building Your Own Which-93)
+1. [Building Your Own Which](Building-Your-Own-Which-93)
